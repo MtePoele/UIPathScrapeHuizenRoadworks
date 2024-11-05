@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4XSJUmyWbEKuoufULheYKg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="huizen.nl/wegwerkzaamheden" CVScreenId="ab8c36f3-2905-43b7-9218-bce89bc861d0" CvElementArea="75, 751, 642, 73" CvTextArea="280, 775, 230, 24" CvTextArgument="Accepteer alle cookies" CvType="Button" DesignTimeRectangle="76, 752, 640, 72" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Accepteer alle cookies' type='button' tag='BUTTON' class='CookieBanner_button__y53cA CookieBanner_cookieBannerButton__ghHI8 Button_button__eAGUb' check:innerText='Accepteer alle cookies' /&gt;" Guid="0035ec17-dc19-4512-a872-aebbb6e25cbb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Wegwerkzaamheden: Huizen bereikbaar | Gemeente Huizen' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ab8c36f3-2905-43b7-9218-bce89bc861d0" CvElementArea="74, 834, 645, 71" CvTextArea="229, 859, 332, 23" CvTextArgument="Accepteer noodzakelijke cookies" CvType="Button" DesignTimeRectangle="76, 835, 640, 71" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Accepteer noodzakelijke cookies' tag='BUTTON' type='button' class='CookieBanner_button__y53cA CookieBanner_secondary__ulMTI Button_callToAction2__mpp0G CookieBanner_secondaryCookieBannerButton___AAxN Button_button__eAGUb' check:innerText='Accepteer noodzakelijke cookies' /&gt;" Guid="c3f3f493-563f-4ad5-9c02-f4dcedebdbda" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="21516d1510d5b42f4f50f3ddcc29cd37.png" xmlns="">0Ms7Qa02obk6rxyg9GpyjWw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

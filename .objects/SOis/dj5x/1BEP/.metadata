@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Wegwerkzaamheden Huizen bereikbaar  Ge",
+  "Type": "Screen",
+  "Id": "1BEPjYXXWkiwfYFH_eLZmg",
+  "Reference": "wvBb8OOdqEuVeD8xGnfAqw/1BEPjYXXWkiwfYFH_eLZmg",
+  "ParentRef": "wvBb8OOdqEuVeD8xGnfAqw/dj5x3Tv3iU251kI_39q_0Q",
+  "Created": "2024-11-05T20:36:08.6891787Z",
+  "Updated": "2024-11-05T20:36:08.6891787Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

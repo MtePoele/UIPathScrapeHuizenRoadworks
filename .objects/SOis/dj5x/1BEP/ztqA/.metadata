@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Accepteer alle cookies",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "ztqANXcTPUilbgINmfcyOQ",
+  "Reference": "wvBb8OOdqEuVeD8xGnfAqw/ztqANXcTPUilbgINmfcyOQ",
+  "ParentRef": "wvBb8OOdqEuVeD8xGnfAqw/1BEPjYXXWkiwfYFH_eLZmg",
+  "Created": "2024-11-05T20:36:42.8212368Z",
+  "Updated": "2024-11-05T20:36:42.8212368Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

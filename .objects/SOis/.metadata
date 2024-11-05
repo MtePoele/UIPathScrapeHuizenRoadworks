@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Wegwerkzaamheden Huizen bereikbaar  Gemeente Huizen",
+  "Type": "App",
+  "Id": "SOissWBSvEWwGn8lGtWTCg",
+  "Reference": "wvBb8OOdqEuVeD8xGnfAqw/SOissWBSvEWwGn8lGtWTCg",
+  "Created": "2024-11-05T20:36:08.566325Z",
+  "Updated": "2024-11-05T20:36:08.566325Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
